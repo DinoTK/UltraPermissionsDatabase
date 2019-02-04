@@ -3988,3 +3988,148 @@ ItemFrameShops+ifs.command.removeshopinselection+Removes every shop in your Worl
 ItemFrameShops+ ifs.command.recalcshopsinselection+Recalculates prices for every shop in your WorldEdit selection.
 ItemFrameShops+ifs.command.sellall+Sells your entire inventory at IFS calculated prices.
 ItemFrameShops+ifs.command.sellhand+Sells the item in your hand using a price calculated by IFS.
+MarriageMaster+marry.*+Allows all permissions
+MarriageMaster+marry.admin+Allow to setpriests and reload and also makes you a priest
+MarriageMaster+marry.bypass+Gives all bypassing permissions
+MarriageMaster+marry.user+Gives acces to all user functions
+MarriageMaster+marry.chat.*+Gives acces to all chat options
+MarriageMaster+marry.list+Allow to list all married players
+MarriageMaster+marry.pvpon+Allow to turn pvp with partner on
+MarriageMaster+marry.pvpoff+Allow to turn pvp with partner off
+MarriageMaster+marry.priest+Makes someone a priest
+MarriageMaster+marry.tp+Allow teleport to partner
+MarriageMaster+marry.home+Allow to use the home with the partner
+MarriageMaster+marry.chat+Allow to use the private chat with the partner
+MarriageMaster+marry.chat.color+Allows colors in private messages
+MarriageMaster+marry.chat.format+Allows formating private messages (except magic)
+MarriageMaster+marry.chat.magic+Allows magic format in private messages
+MarriageMaster+marry.kiss+Allows to kiss your partner
+MarriageMaster+marry.gift+Allows you to gift items to your partner
+MarriageMaster+marry.backpack+Allows to share the backpacks (requires Minepacks)
+MarriageMaster+marry.selfmarry+Allows a player to send other players marry requests without the need of a priest
+MarriageMaster+marry.changesurname+Allows to change the surname when self marry is on or if you are a priest.
+MarriageMaster+marry.setpriest+Allow someone to make players to priests
+MarriageMaster+marry.offlinedivorce+Allows a priest to divorce a couple if only one of them is online
+MarriageMaster+marry.listenchat+Allows to see the private chat
+MarriageMaster+marry.skiptpdelay+Allows to skip the tp delay
+MarriageMaster+marry.bypassgiftgamemode+Allows to gift items from creative mode
+MarriageMaster+marry.bypassrangelimit+Allows to bypass the range limit
+MarriageMaster+marry.reload+Allows to reload the config file
+UberEnchant+uber.add.effect+Adds effect.
+UberEnchant+uber.add.enchant+Adds enchant.
+UberEnchant+uber.add.lore+Adds lore to the item.
+UberEnchant+uber.add.name+Change the name of the item.
+UberEnchant+uber.clear.effect+Clear the item effect.
+UberEnchant+uber.clear.enchant+Clear the item enchant.
+UberEnchant+uber.clear.lore+Clear the item lore.
+UberEnchant+uber.cost.add.enchant+Add cost to enchant.
+UberEnchant+uber.cost.del.enchant+Del cost to enchant.
+UberEnchant+uber.del.effect+Del effects.
+UberEnchant+uber.del.enchant+Del enchants.
+UberEnchant+uber.del.lore+Del the lore.
+UberEnchant+uber.del.name+Del the name.
+UberEnchant+uber.effect.all+Add all effects.
+UberEnchant+uber.enchant.all+Add all enchants.
+UberEnchant+uber.enchant.bypass.any+Bybass the enchants.
+UberEnchant+uber.enchant.bypass.level+Bybass the enchant by level.
+UberEnchant+uber.extract.enchant+Extract the enchant on the item in your hand.
+UberEnchant+uber.help+Help
+UberEnchant+uber.insert.lore+Add lore.
+UberEnchant+uber.list.effects+List of the effects.
+UberEnchant+uber.list.enchants+List of the enchants.
+UberEnchant+uber.set.lore+Set a lore.
+UberEnchant+uber.set.name+Set a name.
+SuperTrails+trail.allow+Allow to open menu
+SuperTrails+trail.all+Allow all particle trails
+SuperTrails+trail.blocks+Allow all block trails
+SuperTrails+trail.rains+Allow all rains (except rain builder)
+SuperTrails+trail.heart+Permissions for each trail.
+SuperTrails+trail.angry+Permissions for each trail.
+SuperTrails+trail.magic+Permissions for each trail.
+SuperTrails+trail.fun+Permissions for each trail.
+SuperTrails+trail.cloud+Permissions for each trail.
+SuperTrails+trail.wmagic+Permissions for each trail.
+SuperTrails+trail.ender+Permissions for each trail.
+SuperTrails+trail.green+Permissions for each trail.
+SuperTrails+trail.spark+Permissions for each trail.
+SuperTrails+trail.flame+Permissions for each trail.
+SuperTrails+trail.white+Permissions for each trail.
+SuperTrails+trail.note+Permissions for each trail.
+SuperTrails+trail.snow+Permissions for each trail.
+SuperTrails+trail.water+Permissions for each trail.
+SuperTrails+trail.lava+Permissions for each trail.
+SuperTrails+trail.crit+Permissions for each trail.
+SuperTrails+trail.smoke+Permissions for each trail.
+SuperTrails+trail.spell+Permissions for each trail.
+SuperTrails+trail.enchant+Permissions for each trail.
+SuperTrails+trail.splash+Permissions for each trail.
+SuperTrails+trail.slime+Permissions for each trail.
+SuperTrails+trail.snowball+Permissions for each trail.
+SuperTrails+trail.void+Permissions for each trail.
+SuperTrails+trail.pop+Permissions for each trail.
+SuperTrails+trail.rainbow+Permissions for each trail.
+SuperTrails+trail.breath+Permissions for each trail.
+SuperTrails+trail.endrod+Permissions for each trail.
+SuperTrails+trail.damage+Permissions for each trail.
+SuperTrails+trail.sand+Permissions for each trail.
+SuperTrails+trail.totem+Permissions for each trail.
+SuperTrails+trail.blocks+Allows all block trails.
+SuperTrails+trail.block.rainbow+Block Trail Permissions
+SuperTrails+trail.block.flower+Block Trail Permissions
+SuperTrails+trail.block.carpet+Block Trail Permissions
+SuperTrails+trail.block.redstone+Block Trail Permissions
+SuperTrails+trail.block.sea+Block Trail Permissions
+SuperTrails+trail.block.wheat+Block Trail Permissions
+SuperTrails+trail.block.ore+Block Trail Permissions
+SuperTrails+trail.block.clay+Block Trail Permissions
+SuperTrails+trail.rains+Allow all rains (except rain builder)
+SuperTrails+trail.rain.tear+Rain Trail Permissions
+SuperTrails+trail.rain.blood+Rain Trail Permissions
+SuperTrails+trail.rain.dia+Rain Trail Permissions
+SuperTrails+trail.rain.wart+Rain Trail Permissions
+SuperTrails+trail.rain.gold+Rain Trail Permissions
+SuperTrails+trail.rain.builder+Allows only rain builder.
+SuperTrails+trail.limit.vip+Rain Trail Permissions
+SuperTrails+trail.limit.bypass+Rain Trail Permissions
+SuperTrails+trail.modemenu+Allow to see and open mode menu
+SuperTrails+trail.mode.circle+Allow use circle mode
+SuperTrails+trail.mode.nn+Allow to use NN mode
+SuperTrails+trail.wings+allow wings builder
+SuperTrails+trail.wing.bf+Rain Trail Permissions
+SuperTrails+trail.wing.angel+Rain Trail Permissions
+iDisguise+iDisguise.admin+Some administration stuff
+iDisguise+iDisguise.others+Disguise other players and living entities
+iDisguise+iDisguise.player.prohibited+Disguise as prohibited players that are listed in commands.restricted-player-names in the config
+iDisguise+iDisguise.reload+Reload the config and language file
+iDisguise+iDisguise.see-through+Enable/disable see-through mode
+iDisguise+iDisguise.undisguise.all+Undisguise everyone
+iDisguise+iDisguise.undisguise.others+Undisguise other players and living entities
+iDisguise+iDisguise.update+Trigger an update-check when you join the server and receive a notification if an update is available (only works if update.check is enabled in the config)
+iDisguise+iDisguise.help+Use the command /disguise help
+iDisguise+iDisguise.mob.*+Disguise as every living disguise type
+iDisguise+iDisguise.mob.baby+Disguise as a baby mob
+iDisguise+iDisguise.mob.creeper.powered+Disguise as a powered creeper
+iDisguise+iDisguise.mob.custom-name+Apply a custom-name to your disguise
+iDisguise+iDisguise.mob.enderman.block+Disguise as an enderman carrying a block
+iDisguise+iDisguise.mob.magma_cube.giant+Disguise as a magma cube of an unnormal size (larger than 4 blocks)
+iDisguise+iDisguise.mob.ocelot.type.*+Disguise as all types of ocelot (list of subpermissions)
+iDisguise+iDisguise.mob.parrot.variant.*+Disguise as all variants of parrot (list of subpermissions)
+iDisguise+iDisguise.mob.phantom.giant+Disguise as a phantom of size greater than 0
+iDisguise+iDisguise.mob.pig.saddled+Disguise as a saddled pig
+iDisguise+iDisguise.mob.rabbit.type.*+Disguise as all types of rabbit (list of subpermissions)
+iDisguise+iDisguise.mob.sheep.color.*+Disguise as a colored sheep (list of subpermissions)
+iDisguise+iDisguise.mob.slime.giant+Disguise as a slime of an unnormal size (larger than 4 blocks)
+iDisguise+iDisguise.mob.villager.profession.*+Disguise as a villager of a different profession (list of subpermissions)
+iDisguise+iDisguise.mob.wolf.collar.*+Disguise as a wolf with a colored collar (list of subpermissions)
+iDisguise+iDisguise.mob.wolf.tamed+Disguise as a tamed wolf (= dog)
+iDisguise+iDisguise.mob.wolf.angry+Disguise as an angry wolf
+iDisguise+iDisguise.object.*+Disguise as every non-living disguise type
+iDisguise+iDisguise.object.custom-name+Apply a custom-name to your disguise
+iDisguise+iDisguise.player.display-name+Disguise as a player with different skin and display name (e.g. Notch’s skin but display name Dinnerbone)
+iDisguise+iDisguise.player.name.*+Disguise as a every player (skin)
+iDisguise+iDisguise.random+Disguise as a randomly chosen mob using /disguise random
+iDisguise+iDisguise.status.detailed+Required to see the additional information below “You are disguised as …” when you execute /disguise status
+iDisguise+iDisguise.undisguise+Undisguise yourself (only required if commands.undisguise-permission is enabled in the config)
+iDisguise+iDisguise.visibility.*+Use every type of disguise visibility
+iDisguise+iDisguise.visibility.list+Use the options visibility=list and visibility=not-list
+iDisguise+iDisguise.visibility.permission+Use the options visibility=permission and visibility=not-permission
